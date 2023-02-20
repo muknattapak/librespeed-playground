@@ -6,7 +6,7 @@
 
 ## 1. Clone this repository with submodules
 ```
-git clone --recurse-submodules https://github.com/thekitp/librespeed-playground.git
+git clone --recurse-submodules https://github.com/muknattapak/librespeed-playground.git
 ```
 
 ## 2. Create persistence storage
