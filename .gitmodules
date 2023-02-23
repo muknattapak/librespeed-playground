@@ -1,5 +1,5 @@
 [submodule "librespeed-speedtest"]
 	path = librespeed-speedtest
-	url = https://github.com/librespeed/libre-speedtest.git
+	url = https://github.com/librespeed/librespeed-speedtes.git
 	branch = master
 
